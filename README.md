@@ -73,15 +73,15 @@ I am a ReactJS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 <br>
 
-[![Devansh Nayyar GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DevanshNayyar&theme=dark&background=000000)](https://github.com/Devansh-Nayyar/)
+[![Devansh Nayyar GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DevanshNayyar&theme=dark&background=000000)](https://github.com/DevanshNayyar/)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshNayyar&hide=hack)](https://github.com/Devansh-Nayyar/)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshNayyar&hide=hack)](https://github.com/DevanshNayyar/)
 
 ---
 
 ### :file_folder: My Repositories/MonoRepos :
 
-- [Full Stack JavaScript BootCamp](https://github.com/DevanshNayyar/ "Repo Link")
+- [Drum Play](https://github.com/DevanshNayyar/DrumPlay "Repo Link")
 
 ---
 
