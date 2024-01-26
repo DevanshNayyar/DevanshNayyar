@@ -37,12 +37,12 @@ I am a ReactJS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :telescope: Studying Computer Science at Manipal University, Jaipur.
 
 - :zap: I'm currently in 8th semester.
-- 
+
 - :seedling: Currently learning Full Stack Web Development using JavaScript (MERN).
 
 - :arrow_right: How to reach me :  [![Linkedin Badge](https://img.shields.io/badge/-DevanshNayyar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devanshnayyar/)
 
-- :email: My email ID : nayyar.devansh@gmail.com
+- :email: My email ID: nayyar.devansh@gmail.com
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
