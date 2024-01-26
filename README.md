@@ -34,13 +34,13 @@
 ### :man_technologist: About Me :
 I am a ReactJS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Gurugram, Haryana, India.
 
-- :telescope: I’m working as a Software Developer(Frontend) in MNC.
+- :telescope: Studying Computer Science at Manipal University, Jaipur.
 
-- :seedling: Currently learning more of Full Stack Web Development using JavaScript.
-
-- :zap: I'm currently in 8th semester
+- :zap: I'm currently in 8th semester.
 - 
-- :arrow_right: How to reach me :  [![Linkedin Badge](https://img.shields.io/badge/-DevanshNayyar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-nayyar/)
+- :seedling: Currently learning Full Stack Web Development using JavaScript (MERN).
+
+- :arrow_right: How to reach me :  [![Linkedin Badge](https://img.shields.io/badge/-DevanshNayyar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devanshnayyar/)
 
 - :email: My email ID : nayyar.devansh@gmail.com
 ---
